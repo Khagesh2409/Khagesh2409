@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khagesh2409
 - 👀 I’m interested in exploring and learning new technologies, enhancing my coding skills and in collaborating with people
-- 🌱 I’m currently learning C++
+- 🌱 I’m a Full Stack Web Developer => Preferred Tech Stack = MERN
 - 📫 Email Id: khageshsharma24@gmail.com
 
 <!---
