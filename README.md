@@ -1,3 +1,6 @@
+<h1>Hi there, I'm <h1 style={{color: 'blue'}}>Khagesh Sharma</h1></h1>
+
+
 - 👋 Hi, I’m @Khagesh2409
 - 👀 I’m interested in exploring and learning new technologies, enhancing my coding skills and in collaborating with people
 - 🌱 I’m a Full Stack Web Developer => Preferred Tech Stack = MERN
