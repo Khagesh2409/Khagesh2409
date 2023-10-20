@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khagesh Sharma</h1>
+<h1>Hi 👋, I'm <span color:'blue'>Khagesh Sharma</span></h1>
 <h3 align="center">A passionate full-stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /> </p>
