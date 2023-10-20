@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <span style={{color: 'blue'}}>Khagesh Sharma</span></h1>
+<h1>Hi there, I'm <span style='color: blue'>Khagesh Sharma</span></h1>
 
 
 - 👋 Hi, I’m @Khagesh2409
