@@ -1,23 +1,20 @@
-### <samp>Hi there, I'm <a href="" target="_blank"><samp>Khagesh Sharma</samp></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> </samp>
+### &gt; Hi there, I'm Khagesh Sharma <a href=''></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" />  
+### <samp>&gt; Hi there, I'm <a href="" target="_blank">Khagesh Sharma</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khagesh-sharma-883726250)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
 [![Devdotto Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=Devdotto&logoColor=white)](https://dev.to/khageshsharma)
 
-### <samp>A passionate Full-Stack Web Developer.</samp> 
+### A passionate Full-Stack Web Developer. <a href=''></a>
 
+### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /> <a href=''></a>
 
-### <samp style="display: inline-block;">Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /></samp>
+### About me: <a href=''></a>
 
-### <samp>About me:</samp> 
+- 🔭 Currently working on FilmVox and Personal-Portfolio website.
+- 🌱 Learning NextJs and Data Structures & Algorithms in C++.
+- 📫 Mail me at khageshsharma24@gmail.com
+- 📖 B.Tech in IT at USICT
 
-- 🔭 <samp>Currently working on FilmVox and Personal-Portfolio website.</samp>
-
-- 🌱 <samp>Learning NextJs and Data Structures & Algorithms in C++.</samp>
-
-- 📫 <samp>Mail me at khageshsharma24@gmail.com</samp>
-
-- 📖 <samp>B.Tech in IT at USICT</samp>
-
-### <samp>Languages and Tools: <a href=''></a></samp>
+### Languages and Tools: <a href=''></a>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </p>
