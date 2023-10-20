@@ -1,4 +1,4 @@
-### <samp>Hi there, I'm <a href="" target="_blank"><samp>Khagesh Sharma</samp></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>Hi there, I'm <a href="" target="_blank"><samp>Khagesh Sharma</samp></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khagesh-sharma-883726250)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
@@ -7,9 +7,9 @@
 ### <samp>A passionate Full-Stack Web Developer.</samp> 
 
 
-### <samp style="display: inline-block;">Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /> <a href=''></a></samp>
+### <samp style="display: inline-block;">Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /></samp>
 
-### <samp>About me: <a href=''></a></samp> 
+### <samp>About me:</samp> 
 
 - 🔭 <samp>Currently working on FilmVox and Personal-Portfolio website.</samp>
 
