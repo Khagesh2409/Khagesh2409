@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
 [![Devdotto Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=Devdotto&logoColor=white)](https://dev.to/khageshsharma)
 
-### <samp>A passionate Full-Stack Web Developer. <a href=''></a></samp> 
+### <samp>A passionate Full-Stack Web Developer.</samp> 
 
 
 ### <samp style="display: inline-block;">Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /> <a href=''></a></samp>
