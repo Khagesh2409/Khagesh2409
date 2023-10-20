@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khagesh-sharma-883726250)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Khagesh2409.Khagesh2409)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Karma.Karma)
 
 I am a passionate full-stack Web Developer.  
 
@@ -19,5 +19,5 @@ I am a passionate full-stack Web Developer.
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khagesh2409&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
