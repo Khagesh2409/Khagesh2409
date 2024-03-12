@@ -8,8 +8,8 @@ A passionate Full-Stack Web Developer, Glad to see you here! <img src="https://k
 
 About me: 
 
-- 🔭 Currently working on FilmVox and Personal-Portfolio website.
-- 🌱 Learning NextJs and Data Structures & Algorithms in C++.
+- 🔭 Currently working on Personal-Portfolio website.
+- 🌱 Learning and Practicing Data Structures & Algorithms in C++.
 - 📫 Mail me at khageshsharma24@gmail.com.
 - 📖 B.Tech in IT at USICT.
 
