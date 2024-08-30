@@ -2,7 +2,6 @@ Hi there, I'm <b>Khagesh Sharma<b><img src="https://media.giphy.com/media/hvRJCL
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khagesh-sharma-883726250)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
-[![Devdotto Badge](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=Devdotto&logoColor=white)](https://dev.to/khageshsharma)
 
 A passionate Full-Stack Web Developer and DevOps Enthusiast, Glad to see you here! <img src="https://komarev.com/ghpvc/?username=khagesh2409&label=Profile%20views&color=0e75b6&style=flat" alt="khagesh2409" /> 
 
