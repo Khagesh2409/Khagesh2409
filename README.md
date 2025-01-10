@@ -8,7 +8,7 @@ I’m a passionate Full-Stack Web Developer and DevOps enthusiast with a deep in
 More About me: 
 
 - 🌱 Currently focusing on Data Structures & Algorithms in C++ to strengthen my problem-solving skills.
-- 💻 Experienced in Full-Stack Web Development and DevOps, with a passion for creating scalable, high-performance applications.
+- 💻 Experienced in Full-Stack Web Development and DevOps.
 - 📧 Feel free to reach out: khageshsharma24@gmail.com.
 - 📚 Pursuing B.Tech in IT at USICT.
 - 🚀 Enthusiastically contributing to open-source projects and exploring cloud technologies to build smarter solutions.
