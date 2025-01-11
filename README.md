@@ -1,6 +1,6 @@
 Hi there, I'm <b>Khagesh Sharma<b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" /> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khagesh-sharma-883726250)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khageshsharma/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_KhageshSharma_)
 
 I’m a passionate Full-Stack Web Developer and DevOps enthusiast with a deep interest in solving real-world problems through technology. I specialize in building scalable applications and implementing efficient, cloud-based solutions. I enjoy exploring new tools, learning modern web technologies, and continuously improving my technical skill set. Whether it’s developing innovative web apps or automating processes with DevOps practices, I thrive on challenges that allow me to apply my knowledge to create impactful solutions.
