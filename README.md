@@ -22,5 +22,5 @@ Intern contribution (July-Oct):
 <img src="https://github.com/user-attachments/assets/450c7105-8b9d-4084-8426-8b5f05df66f9" alt="contri"/>
 
 Github Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-stats-xi-three-24.vercel.app/api?username=Khagesh2409&show_icons=true&locale=en&theme=tokyonight" alt="khagesh2409"/></p>
-<p><img align="" src="https://github-readme-stats-xi-three-24.vercel.app/api/top-langs?username=Khagesh2409&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khagesh2409" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-xi-three-24.vercel.app/api?username=Khagesh2409&all_time_contribs=true&show_icons=true&locale=en&theme=tokyonight" alt="khagesh2409"/></p>
+<p><img align="" src="https://github-readme-stats-xi-three-24.vercel.app/api/top-langs?username=Khagesh2409&all_time_contribs=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khagesh2409" /></p>
