@@ -22,7 +22,7 @@ Intern contribution (July-Oct):
 <img src="https://github.com/user-attachments/assets/450c7105-8b9d-4084-8426-8b5f05df66f9" alt="contri"/>
 
 Github Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khagesh2409&show_icons=true&locale=en&theme=tokyonight" alt="khagesh2409"/></p>
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=khagesh2409&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khagesh2409" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khagesh2409&theme=tokyonight" alt="khagesh2409" /></p>
+<p>&nbsp;<img align="left" src="github-readme-stats-b6capkswq-khagesh2409s-projects.vercel.app/api?username=Khagesh2409&show_icons=true&locale=en&theme=tokyonight" alt="khagesh2409"/></p>
+<p><img align="" src="github-readme-stats-b6capkswq-khagesh2409s-projects.vercel.app/api/top-langs?username=Khagesh2409&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khagesh2409" /></p>
+<p><img align="left" src="github-readme-stats-b6capkswq-khagesh2409s-projects.vercel.app/?user=Khagesh2409&theme=tokyonight" alt="khagesh2409" /></p>
 
